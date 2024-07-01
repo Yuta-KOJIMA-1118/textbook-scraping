@@ -1,6 +1,6 @@
 /**
  * @name content.js
- * @description このスクリプトは，https://sit-coop.jp/products/*にボタンを追加し，ボタンをクリックすると教科書情報をクリップボードにコピーするChrome拡張機能．
+ * @description このスクリプトは，https://sit-coop.jp/products/*にボタンを追加し，ボタンをクリックすると教科書情報をクリップボードにコピーするChrome拡張機能．一部余分な部分が抽出されるため，目視で修正すること．
  * 
  * @since 2024/07/01
  * @author 小島佑太
